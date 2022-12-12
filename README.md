@@ -8,7 +8,7 @@
 
 <p align="left"><a href="https://github.com/vasusen-code/videoconvertor"><img src="https://github-readme-stats.vercel.app/api/pin?username=vasusen-code&show_icons=true&theme=dracula&hide_border=true&repo=VideoConvertor"></a></p>
   
-`Main branch` - For personal use
+`Main branch` - For personal use only
 <p align="left">
 <a href="https://github.com/vasusen-code/VIDEOconvertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
